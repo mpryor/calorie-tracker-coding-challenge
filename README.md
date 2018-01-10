@@ -28,13 +28,15 @@ The requirements of the API are as follows:
 {
   "date": "01/01/2018",
   "total": "450",
-  "foods": [{
+  "entries": [{
     "id": "1",
+    "foodId": "2",
     "name": "apple",
     "calories": 50
   },
   {
-    "id": "2",
+    "id": "2"
+    "foodId": "1",
     "name": "cheeseburger",
     "calories": 400
   }]
