@@ -48,7 +48,7 @@ The requirements of the API are as follows:
 
 The data for the nutrition information may be sourced from wherever you want. (an embedded database, hard-coded, a text file, or an external API like MyFitnessPal for example)  
 
-The API spec for this challenge is intentionally left vague, so that we can see how you design/implement an API to fulfil this requirements.  
+The API spec for this challenge is intentionally left vague, so that we can see how you design/implement an API to fulfill this requirements.  
 
 ## How the challenge will be graded.
 
@@ -62,7 +62,7 @@ The following points will be taken into consideration when grading:
 ## How to submit 
 1. Send us your GitHub ID.
 2. We will create a private repository and add you as a contributor to it. 
-3. Copy over the post-mortem.txt from this repository, add it to yours, and fill it out.
+3. Copy over the challenge-review.txt from this repository, add it to yours, and fill it out.
 4. Commit your code to the repo.
 5. Notify us when complete.
 
