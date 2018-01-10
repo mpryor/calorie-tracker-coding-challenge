@@ -1,0 +1,9 @@
+List here your API endpoints, and a description of each.
+Example : 'GET /users -- retrieves a list of all the users'
+
+Tell us how to build and run your project:
+Example: 'mvn clean install; java -jar target/calorie-tracker.jar'
+
+What were the major challenges of solving this problem? (if any)
+
+Do you have any recommendations on how this problem could be updated to be better?
