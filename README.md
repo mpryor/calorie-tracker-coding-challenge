@@ -66,6 +66,6 @@ The following points will be taken into consideration when grading:
 4. Commit your code to the repo.
 5. Notify us when complete.
 
-### BONUS points:
+## BONUS points:
 
 Design a simple UI that consumes the API you wrote, allowing the user to create their daily log. 
