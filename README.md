@@ -60,11 +60,9 @@ The following points will be taken into consideration when grading:
 - Code readability (variable names / comments / etc)
 
 ## How to submit 
-1. Send us your GitHub ID.
-2. We will create a private repository and add you as a contributor to it. 
-3. Copy over the challenge-review.txt from this repository, add it to yours, and fill it out.
-4. Commit your code to the repo.
-5. Notify us when complete.
+1. Create a GitHub repo with the contents of your coding challenge.
+2. Copy over the challenge-review.txt from this repository, add it to yours, and fill it out.
+3. Send us the repository link when complete.
 
 ## BONUS points:
 
